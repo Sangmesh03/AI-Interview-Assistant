@@ -4,7 +4,7 @@ An LLM-powered AI Interview Assistant built using Streamlit, LangChain, and Hugg
 
 ## Demo Screenshot
 
-![AI Interview Assistant Demo](screen.jpg)
+![AI Interview Assistant Demo](screen.png)
 
 ## Working (How it works)
 
